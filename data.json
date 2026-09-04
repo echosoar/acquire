@@ -1,0 +1,70 @@
+{
+  "list": [
+    {
+      "date": "26/09/03",
+      "initiator": "Nvidia",
+      "acquired": "Hugging Face",
+      "price": "12,930,300,000",
+      "unit": "USD",
+      "officialInfo": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
+    },
+    {
+      "date": "26/08/19",
+      "initiator": "Stripe",
+      "acquired": "OpenRouter",
+      "price": "7,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://stripe.com/zh-hk/newsroom/news/stripe-agrees-to-acquire-openrouter"
+    },
+    {
+      "date": "26/08/14",
+      "initiator": "SpaceX",
+      "acquired": "Cursor",
+      "price": "60,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://cursor.com/cn/blog/joining-spacex"
+    },
+    {
+      "date": "26/08/14",
+      "initiator": "Bending Spoons",
+      "acquired": "Airtable",
+      "price": "1,285,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable"
+    },
+    {
+      "date": "26/05/08",
+      "initiator": "腾讯音乐娱乐集团",
+      "acquired": "喜马拉雅",
+      "price": "1,260,000,000",
+      "unit": "USD",
+      "stock": "175,288,891",
+      "stockType": "A",
+      "officialInfo": "https://www.tencentmusic.com/zh-cn/news-detail.html#75"
+    },
+    {
+      "date": "25/09/10",
+      "initiator": "Bending Spoons",
+      "acquired": "Vimeo",
+      "price": "1,380,000,000",
+      "unit": "USD",
+      "officialInfo": "https://vimeo.com/press/media-release/vimeo-enters-definitive-agreement-be-acquired-bending-spoons-138"
+    },
+    {
+      "date": "22/11/16",
+      "initiator": "Bending Spoons",
+      "acquired": "Evernote",
+      "price": "199,700,000",
+      "unit": "USD",
+      "officialInfo": "https://evernote.com/blog/bending-spoons-to-acquire-evernote"
+    },
+    {
+      "date": "22/10/27",
+      "initiator": "Elon Musk",
+      "acquired": "Twitter",
+      "price": "44,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522272772/d411753d8k.htm"
+    }
+  ]
+}
