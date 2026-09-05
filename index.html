@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="color-scheme" content="light" />
     <title>Acquire</title>
-    <meta name="description" content="A chronological record of acquisitions." />
+    <meta
+      name="description"
+      content="A chronological record of acquisitions."
+    />
     <style>
       :root {
         --background: #ffffff;
@@ -27,7 +30,14 @@
         background: var(--background);
         color: var(--text);
         font-family:
-          Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+          Inter,
+          ui-sans-serif,
+          system-ui,
+          -apple-system,
+          BlinkMacSystemFont,
+          "Segoe UI",
+          "Microsoft YaHei",
+          sans-serif;
       }
 
       main {
@@ -104,6 +114,43 @@
         text-transform: uppercase;
       }
 
+      .sort-button {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        padding: 0;
+        border: 0;
+        background: transparent;
+        color: inherit;
+        font: inherit;
+        letter-spacing: inherit;
+        text-align: inherit;
+        text-transform: inherit;
+        cursor: pointer;
+      }
+
+      .sort-button::after {
+        color: var(--faint);
+        content: "↕";
+        font-size: 13px;
+        line-height: 1;
+      }
+
+      .sort-button[aria-sort="ascending"]::after {
+        color: var(--text-strong);
+        content: "↑";
+      }
+
+      .sort-button[aria-sort="descending"]::after {
+        color: var(--text-strong);
+        content: "↓";
+      }
+
+      .sort-button:focus-visible {
+        outline: 2px solid rgba(0, 0, 0, 0.55);
+        outline-offset: 3px;
+      }
+
       tbody tr {
         border-top: 1px solid var(--line-soft);
       }
@@ -172,7 +219,9 @@
       <header>
         <div>
           <h1>Acquire</h1>
-          <p class="description">A chronological record of company acquisitions.</p>
+          <p class="description">
+            A chronological record of company acquisitions.
+          </p>
         </div>
         <p id="status" aria-live="polite">Loading data…</p>
       </header>
@@ -181,12 +230,33 @@
         <table>
           <thead>
             <tr>
-              <th scope="col">Date</th>
+              <th scope="col">
+                <button
+                  class="sort-button"
+                  type="button"
+                  data-sort-key="date"
+                  aria-sort="descending"
+                >
+                  Date
+                </button>
+              </th>
               <th scope="col" aria-label="Initiator country or region"></th>
               <th scope="col">Initiator</th>
-              <th scope="col" aria-label="Acquired company country or region"></th>
+              <th
+                scope="col"
+                aria-label="Acquired company country or region"
+              ></th>
               <th scope="col">Acquired</th>
-              <th scope="col" class="price">Price</th>
+              <th scope="col" class="price">
+                <button
+                  class="sort-button"
+                  type="button"
+                  data-sort-key="price"
+                  aria-sort="none"
+                >
+                  Price
+                </button>
+              </th>
               <th scope="col" class="info"></th>
             </tr>
           </thead>
@@ -194,13 +264,18 @@
         </table>
       </div>
 
-      <footer class="site-footer">Data is ordered from newest to oldest.</footer>
+      <footer class="site-footer">
+        Click Date or Price to change the sort order.
+      </footer>
     </main>
 
     <script>
-      const listNode = document.querySelector('#acquisition-list');
-      const statusNode = document.querySelector('#status');
-      const flagBaseUrl = '//cdn.1htr.cn/static/image/flags/small/';
+      const listNode = document.querySelector("#acquisition-list");
+      const statusNode = document.querySelector("#status");
+      const sortButtons = document.querySelectorAll(".sort-button");
+      const flagBaseUrl = "//cdn.1htr.cn/static/image/flags/small/";
+      let acquisitions = [];
+      let sortState = { key: "date", direction: "desc" };
 
       const parseDate = (value) => {
         const match = /^(\d{2})\/(\d{2})\/(\d{2})$/.exec(String(value));
@@ -209,23 +284,58 @@
         return Date.UTC(2000 + Number(year), Number(month) - 1, Number(day));
       };
 
-      const appendTextCell = (row, text, className = '') => {
-        const cell = document.createElement('td');
-        cell.textContent = text || '-';
+      const parsePrice = (value) => {
+        const parsed = Number(String(value).replaceAll(",", ""));
+        return Number.isFinite(parsed) ? parsed : Number.NEGATIVE_INFINITY;
+      };
+
+      const getSortValue = (item) =>
+        sortState.key === "date"
+          ? parseDate(item.date)
+          : parsePrice(item.price);
+
+      const getSortedItems = () => {
+        const direction = sortState.direction === "asc" ? 1 : -1;
+        return [...acquisitions].sort(
+          (left, right) =>
+            (getSortValue(left) - getSortValue(right)) * direction,
+        );
+      };
+
+      const updateSortButtons = () => {
+        sortButtons.forEach((button) => {
+          const direction =
+            button.dataset.sortKey === sortState.key
+              ? sortState.direction
+              : "none";
+          button.setAttribute(
+            "aria-sort",
+            direction === "asc"
+              ? "ascending"
+              : direction === "desc"
+                ? "descending"
+                : "none",
+          );
+        });
+      };
+
+      const appendTextCell = (row, text, className = "") => {
+        const cell = document.createElement("td");
+        cell.textContent = text || "-";
         if (className) cell.className = className;
         row.append(cell);
       };
 
       const appendStateCell = (row, state) => {
-        const cell = document.createElement('td');
-        cell.className = 'state';
-        const image = document.createElement('img');
-        image.className = 'flag';
-        image.src = `${flagBaseUrl}${{
-          usa: 'united-states-of-america',
-        }[state] || state}.png`;
-        image.alt = '';
-        image.setAttribute('aria-hidden', 'true');
+        const cell = document.createElement("td");
+        cell.className = "state";
+        const image = document.createElement("img");
+        image.className = "flag";
+        const stateCode =
+          { usa: "united-states-of-america" }[state] || state;
+        image.src = `${flagBaseUrl}${stateCode}.png`;
+        image.alt = "";
+        image.setAttribute("aria-hidden", "true");
         image.width = 16;
         image.height = 16;
         cell.append(image);
@@ -249,34 +359,33 @@
       };
 
       const showMessage = (message, className) => {
-        const row = document.createElement('tr');
-        const cell = document.createElement('td');
-        cell.colSpan = 6;
+        const row = document.createElement("tr");
+        const cell = document.createElement("td");
+        cell.colSpan = 7;
         cell.className = className;
         cell.textContent = message;
         row.append(cell);
         listNode.replaceChildren(row);
       };
 
-      const render = (items) => {
-        const sortedItems = [...items].sort(
-          (left, right) => parseDate(right.date) - parseDate(left.date),
-        );
+      const render = () => {
+        const sortedItems = getSortedItems();
+        updateSortButtons();
         if (!sortedItems.length) {
-          showMessage('No acquisition records are available.', 'empty');
-          statusNode.textContent = 'No records';
+          showMessage("No acquisition records are available.", "empty");
+          statusNode.textContent = "No records";
           return;
         }
 
         const fragment = document.createDocumentFragment();
         sortedItems.forEach((item) => {
-          const row = document.createElement('tr');
-          appendTextCell(row, item.date, 'date');
-          appendStateCell(row, item.initiatorState || 'other');
-          appendTextCell(row, item.initiator, 'name');
-          appendStateCell(row, item.acquiredState || 'other');
-          appendTextCell(row, item.acquired, 'name');
-          appendTextCell(row, item.price, 'price');
+          const row = document.createElement("tr");
+          appendTextCell(row, item.date, "date");
+          appendStateCell(row, item.initiatorState || "other");
+          appendTextCell(row, item.initiator, "name");
+          appendStateCell(row, item.acquiredState || "other");
+          appendTextCell(row, item.acquired, "name");
+          appendTextCell(row, item.price, "price");
           appendLinkCell(row, item.officialInfo);
           fragment.append(row);
         });
@@ -284,19 +393,35 @@
         statusNode.textContent = `${sortedItems.length} records`;
       };
 
-      fetch('./data.json')
+      sortButtons.forEach((button) => {
+        button.addEventListener("click", () => {
+          const key = button.dataset.sortKey;
+          const direction =
+            sortState.key === key && sortState.direction === "desc"
+              ? "asc"
+              : "desc";
+          sortState = { key, direction };
+          render();
+        });
+      });
+
+      fetch("./data.json")
         .then((response) => {
           if (!response.ok) throw new Error(`HTTP ${response.status}`);
           return response.json();
         })
         .then((data) => {
-          if (!Array.isArray(data.list)) throw new Error('Invalid data format');
-          render(data.list);
+          if (!Array.isArray(data.list)) throw new Error("Invalid data format");
+          acquisitions = data.list;
+          render();
         })
         .catch((error) => {
-          console.error('Unable to load data.json:', error);
-          showMessage('Unable to load data. Please open this page through an HTTP server.', 'error');
-          statusNode.textContent = 'Failed to load data';
+          console.error("Unable to load data.json:", error);
+          showMessage(
+            "Unable to load data. Please open this page through an HTTP server.",
+            "error",
+          );
+          statusNode.textContent = "Failed to load data";
         });
     </script>
   </body>
