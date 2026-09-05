@@ -51,6 +51,16 @@
       "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
     },
     {
+      "date": "26/07/21",
+      "initiatorState": "united-arab-emirates",
+      "initiator": "MGX, BlackRock",
+      "acquiredState": "usa",
+      "acquired": "Aligned",
+      "price": "40,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://aligneddc.com/press-release/aip-mgx-and-blackrocks-gip-close-acquisition-of-aligned-data-centers/"
+    },
+    {
       "date": "26/05/17",
       "initiatorState": "usa",
       "initiator": "IBM",
@@ -113,6 +123,16 @@
       "officialInfo": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
     },
     {
+      "date": "25/11/18",
+      "initiatorState": "usa",
+      "initiator": "Salesforce",
+      "acquiredState": "usa",
+      "acquired": "Informatica",
+      "price": "8,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.salesforce.com/news/press-releases/2025/11/18/salesforce-completes-acquisition-of-informatica/"
+    },
+    {
       "date": "25/09/10",
       "initiatorState": "usa",
       "initiator": "Bending Spoons",
@@ -131,6 +151,16 @@
       "price": "32,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
+    },
+    {
+      "date": "25/07/16",
+      "initiatorState": "usa",
+      "initiator": "Synopsys",
+      "acquiredState": "usa",
+      "acquired": "Ansys",
+      "price": "35,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.synopsys.com/synopsys-ansys-united.html"
     },
     {
       "date": "25/07/14",
