@@ -31,7 +31,7 @@
       "officialInfo": "https://cursor.com/cn/blog/joining-spacex"
     },
     {
-      "date": "26/08/14",
+      "date": "26/08/04",
       "initiatorState": "usa",
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
@@ -39,6 +39,16 @@
       "price": "1,285,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable"
+    },
+    {
+      "date": "26/08/04",
+      "initiatorState": "saudi-arabia",
+      "initiator": "PIF, Silver Lake, Affinity Partners",
+      "acquiredState": "usa",
+      "acquired": "EA",
+      "price": "55,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
     },
     {
       "date": "26/05/08",
@@ -63,6 +73,16 @@
       "officialInfo": "https://vimeo.com/press/media-release/vimeo-enters-definitive-agreement-be-acquired-bending-spoons-138"
     },
     {
+      "date": "23/11/22",
+      "initiatorState": "usa",
+      "initiator": "Broadcom",
+      "acquiredState": "usa",
+      "acquired": "VMWare",
+      "price": "61,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware"
+    },
+    {
       "date": "22/11/16",
       "initiatorState": "usa",
       "initiator": "Bending Spoons",
@@ -81,6 +101,26 @@
       "price": "44,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522272772/d411753d8k.htm"
+    },
+    {
+      "date": "22/01/18",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "usa",
+      "acquired": "Activision Blizzard",
+      "price": "68,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/source/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
+    },
+    {
+      "date": "19/07/09",
+      "initiatorState": "usa",
+      "initiator": "IBM",
+      "acquiredState": "usa",
+      "acquired": "Red Hat",
+      "price": "34,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat"
     }
   ]
 }
