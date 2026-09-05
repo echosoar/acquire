@@ -2,7 +2,9 @@
   "list": [
     {
       "date": "26/09/03",
+      "initiatorState": "other",
       "initiator": "Nvidia",
+      "acquiredState": "other",
       "acquired": "Hugging Face",
       "price": "12,930,300,000",
       "unit": "USD",
@@ -10,7 +12,9 @@
     },
     {
       "date": "26/08/19",
+      "initiatorState": "other",
       "initiator": "Stripe",
+      "acquiredState": "other",
       "acquired": "OpenRouter",
       "price": "7,500,000,000",
       "unit": "USD",
@@ -18,7 +22,9 @@
     },
     {
       "date": "26/08/14",
+      "initiatorState": "other",
       "initiator": "SpaceX",
+      "acquiredState": "other",
       "acquired": "Cursor",
       "price": "60,000,000,000",
       "unit": "USD",
@@ -26,7 +32,9 @@
     },
     {
       "date": "26/08/14",
+      "initiatorState": "other",
       "initiator": "Bending Spoons",
+      "acquiredState": "other",
       "acquired": "Airtable",
       "price": "1,285,000,000",
       "unit": "USD",
@@ -34,7 +42,9 @@
     },
     {
       "date": "26/05/08",
+      "initiatorState": "other",
       "initiator": "腾讯音乐娱乐集团",
+      "acquiredState": "other",
       "acquired": "喜马拉雅",
       "price": "1,260,000,000",
       "unit": "USD",
@@ -44,7 +54,9 @@
     },
     {
       "date": "25/09/10",
+      "initiatorState": "other",
       "initiator": "Bending Spoons",
+      "acquiredState": "other",
       "acquired": "Vimeo",
       "price": "1,380,000,000",
       "unit": "USD",
@@ -52,7 +64,9 @@
     },
     {
       "date": "22/11/16",
+      "initiatorState": "other",
       "initiator": "Bending Spoons",
+      "acquiredState": "other",
       "acquired": "Evernote",
       "price": "199,700,000",
       "unit": "USD",
@@ -60,7 +74,9 @@
     },
     {
       "date": "22/10/27",
+      "initiatorState": "other",
       "initiator": "Elon Musk",
+      "acquiredState": "other",
       "acquired": "Twitter",
       "price": "44,000,000,000",
       "unit": "USD",
