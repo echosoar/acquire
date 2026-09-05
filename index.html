@@ -220,12 +220,30 @@
         cell.className = 'state';
         const image = document.createElement('img');
         image.className = 'flag';
-        image.src = `${flagBaseUrl}${state}.png`;
+        image.src = `${flagBaseUrl}${{
+          usa: 'united-states-of-america',
+        }[state] || state}.png`;
         image.alt = '';
         image.setAttribute('aria-hidden', 'true');
         image.width = 16;
         image.height = 16;
         cell.append(image);
+        row.append(cell);
+      };
+
+      const appendLinkCell = (row, link) => {
+        const cell = document.createElement('td');
+        cell.className = 'link';
+        if (link) {
+          const anchor = document.createElement('a');
+          anchor.href = link;
+          anchor.textContent = 'Info';
+          anchor.target = '_blank';
+          anchor.rel = 'noopener noreferrer';
+          cell.append(anchor);
+        } else {
+          cell.textContent = '-';
+        }
         row.append(cell);
       };
 
@@ -258,6 +276,7 @@
           appendStateCell(row, item.acquiredState || 'other');
           appendTextCell(row, item.acquired, 'name');
           appendTextCell(row, item.price, 'price');
+          appendLinkCell(row, item.officialInfo);
           fragment.append(row);
         });
         listNode.replaceChildren(fragment);
