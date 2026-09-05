@@ -331,8 +331,7 @@
         cell.className = "state";
         const image = document.createElement("img");
         image.className = "flag";
-        const stateCode =
-          { usa: "united-states-of-america" }[state] || state;
+        const stateCode = { usa: "united-states-of-america" }[state] || state;
         image.src = `${flagBaseUrl}${stateCode}.png`;
         image.alt = "";
         image.setAttribute("aria-hidden", "true");
@@ -343,17 +342,17 @@
       };
 
       const appendLinkCell = (row, link) => {
-        const cell = document.createElement('td');
-        cell.className = 'link';
+        const cell = document.createElement("td");
+        cell.className = "link";
         if (link) {
-          const anchor = document.createElement('a');
+          const anchor = document.createElement("a");
           anchor.href = link;
-          anchor.textContent = 'Info';
-          anchor.target = '_blank';
-          anchor.rel = 'noopener noreferrer';
+          anchor.textContent = "Info";
+          anchor.target = "_blank";
+          anchor.rel = "noopener noreferrer";
           cell.append(anchor);
         } else {
-          cell.textContent = '-';
+          cell.textContent = "-";
         }
         row.append(cell);
       };
