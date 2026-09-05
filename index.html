@@ -326,6 +326,13 @@
         row.append(cell);
       };
 
+      const appendPriceCell = (row, price, unit, className = "") => {
+        const cell = document.createElement("td");
+        cell.innerHTML = `${price} <i style="opacity: 0.5">${unit}</i>`;
+        if (className) cell.className = className;
+        row.append(cell);
+      };
+
       const appendStateCell = (row, state) => {
         const cell = document.createElement("td");
         cell.className = "state";
@@ -384,7 +391,7 @@
           appendTextCell(row, item.initiator, "name");
           appendStateCell(row, item.acquiredState || "other");
           appendTextCell(row, item.acquired, "name");
-          appendTextCell(row, item.price, "price");
+          appendPriceCell(row, item.price, item.unit, "price");
           appendLinkCell(row, item.officialInfo);
           fragment.append(row);
         });
