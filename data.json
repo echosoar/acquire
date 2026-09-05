@@ -51,16 +51,66 @@
       "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
     },
     {
-      "date": "26/05/08",
+      "date": "26/05/17",
       "initiatorState": "usa",
-      "initiator": "腾讯音乐娱乐集团",
+      "initiator": "IBM",
       "acquiredState": "usa",
+      "acquired": "Confluent",
+      "price": "11,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent,-making-real-time-data-the-engine-of-enterprise-ai-and-agents"
+    },
+    {
+      "date": "26/05/08",
+      "initiatorState": "china",
+      "initiator": "腾讯音乐娱乐",
+      "acquiredState": "china",
       "acquired": "喜马拉雅",
       "price": "1,260,000,000",
       "unit": "USD",
       "stock": "175,288,891",
       "stockType": "A",
       "officialInfo": "https://www.tencentmusic.com/zh-cn/news-detail.html#75"
+    },
+    {
+      "date": "26/03/20",
+      "initiatorState": "saudi-arabia",
+      "initiator": "PIF",
+      "acquiredState": "china",
+      "acquired": "沐瞳科技",
+      "price": "6,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://zh.wikipedia.org/zh-hk/%E6%B2%90%E7%9E%B3%E7%A7%91%E6%8A%80"
+    },
+    {
+      "date": "26/02/25",
+      "initiatorState": "usa",
+      "initiator": "Anthropic",
+      "acquiredState": "usa",
+      "acquired": "Vercept",
+      "price": "50,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.anthropic.com/news/acquires-vercept"
+    },
+    {
+      "date": "25/12/29",
+      "initiatorState": "japan",
+      "initiator": "SoftBank",
+      "acquiredState": "usa",
+      "acquired": "DigitalBridge",
+      "price": "4,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.digitalbridge.com/news/2025-12-29-softbank-group-to-acquire-digitalbridge-for-4-billion-to-scale-next-gen-ai-infrastructure"
+    },
+    {
+      "date": "25/12/10",
+      "initiatorState": "usa",
+      "initiator": "Nvidia",
+      "acquiredState": "usa",
+      "acquired": "Groq",
+      "price": "20,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
     },
     {
       "date": "25/09/10",
@@ -71,6 +121,46 @@
       "price": "1,380,000,000",
       "unit": "USD",
       "officialInfo": "https://vimeo.com/press/media-release/vimeo-enters-definitive-agreement-be-acquired-bending-spoons-138"
+    },
+    {
+      "date": "25/09/10",
+      "initiatorState": "usa",
+      "initiator": "Google",
+      "acquiredState": "israel",
+      "acquired": "Wiz",
+      "price": "32,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
+    },
+    {
+      "date": "25/07/14",
+      "initiatorState": "usa",
+      "initiator": "Cognition",
+      "acquiredState": "usa",
+      "acquired": "Windsurf",
+      "price": "250,000,000",
+      "unit": "USD",
+      "officialInfo": "https://cognition.com/blog/windsurf"
+    },
+    {
+      "date": "25/07/03",
+      "initiatorState": "usa",
+      "initiator": "Nvidia",
+      "acquiredState": "usa",
+      "acquired": "CentML",
+      "price": "400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://finance.yahoo.com/news/nvidia-acquires-centml-boost-ai-130943202.html"
+    },
+    {
+      "date": "25/04/17",
+      "initiatorState": "usa",
+      "initiator": "Global Payments",
+      "acquiredState": "usa",
+      "acquired": "Worldpay",
+      "price": "24,250,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.globalpayments.com/news-events/press-releases/detail/469/global-payments-announces-agreements-to-acquire-worldpay"
     },
     {
       "date": "23/11/22",
@@ -113,6 +203,46 @@
       "officialInfo": "https://news.microsoft.com/source/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
     },
     {
+      "date": "21/07/21",
+      "initiatorState": "usa",
+      "initiator": "Salesforce",
+      "acquiredState": "usa",
+      "acquired": "Slack",
+      "price": "27,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://slack.com/intl/zh-cn/blog/news/salesforce-completes-acquisition-of-slack"
+    },
+    {
+      "date": "21/05/26",
+      "initiatorState": "usa",
+      "initiator": "Amazon",
+      "acquiredState": "usa",
+      "acquired": "MGM Holdings",
+      "price": "8,450,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.aboutamazon.com/news/company-news/amazon-and-mgm-have-signed-an-agreement-for-amazon-to-acquire-mgm"
+    },
+    {
+      "date": "21/03/22",
+      "initiatorState": "china",
+      "initiator": "字节跳动",
+      "acquiredState": "china",
+      "acquired": "沐瞳科技",
+      "price": "4,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.reuters.com/article/us-bytedance-videogames-mooton-idUSKBN2BE0ES"
+    },
+    {
+      "date": "19/11/04",
+      "initiatorState": "usa",
+      "initiator": "Broadcom",
+      "acquiredState": "usa",
+      "acquired": "Symantec",
+      "price": "10,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-symantec-enterprise-security-business-107"
+    },
+    {
       "date": "19/07/09",
       "initiatorState": "usa",
       "initiator": "IBM",
@@ -121,6 +251,56 @@
       "price": "34,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat"
+    },
+    {
+      "date": "19/05/20",
+      "initiatorState": "usa",
+      "initiator": "The Walt Disney Company",
+      "acquiredState": "usa",
+      "acquired": "21st Century Fox",
+      "price": "71,300,000,000",
+      "unit": "USD",
+      "officialInfo": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-to-acquire-twenty-first-century-fox-inc-after-spinoff-of-certain-businesses-for-52-4-billion-in-stock/"
+    },
+    {
+      "date": "18/06/04",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "usa",
+      "acquired": "GitHub",
+      "price": "7,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/source/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/"
+    },
+    {
+      "date": "18/04/02",
+      "initiatorState": "china",
+      "initiator": "阿里巴巴",
+      "acquiredState": "china",
+      "acquired": "饿了么",
+      "price": "9,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.alibabanews.com/alibabaquanzishougouzhongguoxianshangwaimaipingtaieleme/"
+    },
+    {
+      "date": "16/06/21",
+      "initiatorState": "china",
+      "initiator": "腾讯",
+      "acquiredState": "finland",
+      "acquired": "SuperCell",
+      "price": "8,600,000,000",
+      "unit": "USD",
+      "officialInfo": "https://group.softbank/en/news/press/20160621"
+    },
+    {
+      "date": "16/06/13",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "usa",
+      "acquired": "LinkedIn",
+      "price": "26,200,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/source/2016/06/13/microsoft-to-acquire-linkedin/"
     }
   ]
 }
