@@ -247,6 +247,7 @@
                 aria-label="Acquired company country or region"
               ></th>
               <th scope="col">Acquired</th>
+              <th scope="col">Acquired Business</th>
               <th scope="col" class="price">
                 <button
                   class="sort-button"
@@ -391,6 +392,7 @@
           appendTextCell(row, item.initiator, "name");
           appendStateCell(row, item.acquiredState || "other");
           appendTextCell(row, item.acquired, "name");
+          appendTextCell(row, item.acquiredBusiness, "business");
           appendPriceCell(row, item.price, item.unit, "price");
           appendLinkCell(row, item.officialInfo);
           fragment.append(row);

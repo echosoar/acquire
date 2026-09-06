@@ -6,6 +6,7 @@
       "initiator": "Nvidia",
       "acquiredState": "usa",
       "acquired": "Hugging Face",
+      "acquiredBusiness": "AI",
       "price": "12,930,300,000",
       "unit": "USD",
       "officialInfo": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
@@ -16,6 +17,7 @@
       "initiator": "Stripe",
       "acquiredState": "usa",
       "acquired": "OpenRouter",
+      "acquiredBusiness": "AI",
       "price": "7,500,000,000",
       "unit": "USD",
       "officialInfo": "https://stripe.com/zh-hk/newsroom/news/stripe-agrees-to-acquire-openrouter"
@@ -26,6 +28,7 @@
       "initiator": "SpaceX",
       "acquiredState": "usa",
       "acquired": "Cursor",
+      "acquiredBusiness": "Software",
       "price": "60,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cursor.com/cn/blog/joining-spacex"
@@ -36,9 +39,21 @@
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Airtable",
+      "acquiredBusiness": "Software",
       "price": "1,285,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable"
+    },
+    {
+      "date": "26/08/03",
+      "initiatorState": "usa",
+      "initiator": "Mastercard",
+      "acquiredState": "usa",
+      "acquired": " BVNK",
+      "acquiredBusiness": "Fintech",
+      "price": "1,800,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.mastercard.com/global/en/news-and-trends/press/2026/august/mastercard-completes-acquisition-of-bvnk-to-advance-global-stabl.html"
     },
     {
       "date": "26/08/04",
@@ -46,6 +61,7 @@
       "initiator": "PIF, Silver Lake, Affinity Partners",
       "acquiredState": "usa",
       "acquired": "EA",
+      "acquiredBusiness": "Gaming",
       "price": "55,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
@@ -56,6 +72,7 @@
       "initiator": "MGX, BlackRock",
       "acquiredState": "usa",
       "acquired": "Aligned",
+      "acquiredBusiness": "Data Center",
       "price": "40,000,000,000",
       "unit": "USD",
       "officialInfo": "https://aligneddc.com/press-release/aip-mgx-and-blackrocks-gip-close-acquisition-of-aligned-data-centers/"
@@ -66,6 +83,7 @@
       "initiator": "IBM",
       "acquiredState": "usa",
       "acquired": "Confluent",
+      "acquiredBusiness": "Data",
       "price": "11,000,000,000",
       "unit": "USD",
       "officialInfo": "https://newsroom.ibm.com/2026-03-17-ibm-completes-acquisition-of-confluent,-making-real-time-data-the-engine-of-enterprise-ai-and-agents"
@@ -76,6 +94,7 @@
       "initiator": "腾讯音乐娱乐",
       "acquiredState": "china",
       "acquired": "喜马拉雅",
+      "acquiredBusiness": "Audio",
       "price": "1,260,000,000",
       "unit": "USD",
       "stock": "175,288,891",
@@ -88,6 +107,7 @@
       "initiator": "PIF",
       "acquiredState": "china",
       "acquired": "沐瞳科技",
+      "acquiredBusiness": "Gaming",
       "price": "6,000,000,000",
       "unit": "USD",
       "officialInfo": "https://zh.wikipedia.org/zh-hk/%E6%B2%90%E7%9E%B3%E7%A7%91%E6%8A%80"
@@ -98,6 +118,7 @@
       "initiator": "Anthropic",
       "acquiredState": "usa",
       "acquired": "Vercept",
+      "acquiredBusiness": "AI",
       "price": "50,000,000",
       "unit": "USD",
       "officialInfo": "https://www.anthropic.com/news/acquires-vercept"
@@ -108,6 +129,7 @@
       "initiator": "SoftBank",
       "acquiredState": "usa",
       "acquired": "DigitalBridge",
+      "acquiredBusiness": "Data Center",
       "price": "4,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.digitalbridge.com/news/2025-12-29-softbank-group-to-acquire-digitalbridge-for-4-billion-to-scale-next-gen-ai-infrastructure"
@@ -118,6 +140,7 @@
       "initiator": "Nvidia",
       "acquiredState": "usa",
       "acquired": "Groq",
+      "acquiredBusiness": "AI",
       "price": "20,000,000,000",
       "unit": "USD",
       "officialInfo": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
@@ -128,6 +151,7 @@
       "initiator": "Salesforce",
       "acquiredState": "usa",
       "acquired": "Informatica",
+      "acquiredBusiness": "Software",
       "price": "8,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.salesforce.com/news/press-releases/2025/11/18/salesforce-completes-acquisition-of-informatica/"
@@ -138,6 +162,7 @@
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Vimeo",
+      "acquiredBusiness": "Video",
       "price": "1,380,000,000",
       "unit": "USD",
       "officialInfo": "https://vimeo.com/press/media-release/vimeo-enters-definitive-agreement-be-acquired-bending-spoons-138"
@@ -148,6 +173,7 @@
       "initiator": "Google",
       "acquiredState": "israel",
       "acquired": "Wiz",
+      "acquiredBusiness": "Cybersecurity",
       "price": "32,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
@@ -158,6 +184,7 @@
       "initiator": "Synopsys",
       "acquiredState": "usa",
       "acquired": "Ansys",
+      "acquiredBusiness": "Software",
       "price": "35,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.synopsys.com/synopsys-ansys-united.html"
@@ -168,6 +195,7 @@
       "initiator": "Cognition",
       "acquiredState": "usa",
       "acquired": "Windsurf",
+      "acquiredBusiness": "Software",
       "price": "250,000,000",
       "unit": "USD",
       "officialInfo": "https://cognition.com/blog/windsurf"
@@ -178,9 +206,65 @@
       "initiator": "Nvidia",
       "acquiredState": "usa",
       "acquired": "CentML",
+      "acquiredBusiness": "AI",
       "price": "400,000,000",
       "unit": "USD",
       "officialInfo": "https://finance.yahoo.com/news/nvidia-acquires-centml-boost-ai-130943202.html"
+    },
+    {
+      "date": "25/07/02",
+      "initiatorState": "usa",
+      "initiator": "Hewlett Packard Enterprise",
+      "acquiredState": "usa",
+      "acquired": "Juniper Networks",
+      "acquiredBusiness": "Networking",
+      "price": "14,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.hpe.com/us/en/newsroom/press-release/2025/07/hewlett-packard-enterprise-closes-acquisition-of-juniper-networks-to-offer-industry-leading-comprehensive-cloud-native-ai-driven-portfolio.html"
+    },
+    {
+      "date": "25/05/27",
+      "initiatorState": "usa",
+      "initiator": "Motorola Solutions",
+      "acquiredState": "usa",
+      "acquired": "Silvus",
+      "acquiredBusiness": "Communication",
+      "price": "4,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.motorolasolutions.com/newsroom/press-releases/motorola-solutions-to-acquire-silvus-technologies.html"
+    },
+    {
+      "date": "25/05/21",
+      "initiatorState": "usa",
+      "initiator": "OpenAI",
+      "acquiredState": "usa",
+      "acquired": "IO",
+      "acquiredBusiness": "AI",
+      "price": "6,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://openai.com/sam-and-jony/"
+    },
+    {
+      "date": "25/05/06",
+      "initiatorState": "usa",
+      "initiator": "DoorDash",
+      "acquiredState": "united-kingdom",
+      "acquired": "Deliveroo",
+      "acquiredBusiness": "Local Services",
+      "price": "2,900,000,000",
+      "unit": "GBP",
+      "officialInfo": "http://ir.doordash.com/news/news-details/2025/DoorDash-Announces-Agreement-to-Acquire-Deliveroo/default.aspx"
+    },
+    {
+      "date": "25/04/29",
+      "initiatorState": "china",
+      "initiator": "美的",
+      "acquiredState": "spain",
+      "acquired": "Teka",
+      "acquiredBusiness": "Appliances",
+      "price": "1,000,000,000",
+      "unit": "EUR",
+      "officialInfo": "https://www.midea.com.cn/zh/about-midea/news/_teka_"
     },
     {
       "date": "25/04/17",
@@ -188,9 +272,43 @@
       "initiator": "Global Payments",
       "acquiredState": "usa",
       "acquired": "Worldpay",
+      "acquiredBusiness": "Fintech",
       "price": "24,250,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.globalpayments.com/news-events/press-releases/detail/469/global-payments-announces-agreements-to-acquire-worldpay"
+    },
+    {
+      "date": "25/03/19",
+      "initiatorState": "japan",
+      "initiator": "SoftBank",
+      "acquiredState": "usa",
+      "acquired": "Ampere",
+      "acquiredBusiness": "Semiconductor",
+      "price": "6,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://amperecomputing.com/press/softbank-group-to-acquire-ampere-computing"
+    },
+    {
+      "date": "25/03/12",
+      "initiatorState": "usa",
+      "initiator": "Scopely",
+      "acquiredState": "usa",
+      "acquired": "Niantic Games",
+      "acquiredBusiness": "Gaming",
+      "price": "3,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.scopely.com/en/news/scopely-to-acquire-niantic-games-business-which-includes-pokemon-go-one-of-the-most-successful-mobile-games-of-all-time"
+    },
+    {
+      "date": "24/08/19",
+      "initiatorState": "usa",
+      "initiator": "AMD",
+      "acquiredState": "usa",
+      "acquired": "ZT Systems",
+      "acquiredBusiness": "AI",
+      "price": "4,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.amd.com/zh-cn/newsroom/press-releases/2024-8-19-amd-to-significantly-expand-data-center-ai-systems.html"
     },
     {
       "date": "23/11/22",
@@ -198,9 +316,21 @@
       "initiator": "Broadcom",
       "acquiredState": "usa",
       "acquired": "VMWare",
+      "acquiredBusiness": "Software",
       "price": "61,000,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware"
+    },
+    {
+      "date": "23/07/12",
+      "initiatorState": "saudi-arabia",
+      "initiator": "Savvy Games Group",
+      "acquiredState": "usa",
+      "acquired": "Scopely",
+      "acquiredBusiness": "Gaming",
+      "price": "4,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.pif.gov.sa/en/news-and-insights/newswire/2023/savvy-games-group-completes-acquisition-of-scopely-for-fourty-nine-billion/"
     },
     {
       "date": "22/11/16",
@@ -208,6 +338,7 @@
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Evernote",
+      "acquiredBusiness": "Software",
       "price": "199,700,000",
       "unit": "USD",
       "officialInfo": "https://evernote.com/blog/bending-spoons-to-acquire-evernote"
@@ -218,6 +349,7 @@
       "initiator": "Elon Musk",
       "acquiredState": "usa",
       "acquired": "Twitter",
+      "acquiredBusiness": "Social Media",
       "price": "44,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522272772/d411753d8k.htm"
@@ -228,6 +360,7 @@
       "initiator": "Microsoft",
       "acquiredState": "usa",
       "acquired": "Activision Blizzard",
+      "acquiredBusiness": "Gaming",
       "price": "68,700,000,000",
       "unit": "USD",
       "officialInfo": "https://news.microsoft.com/source/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
@@ -238,6 +371,7 @@
       "initiator": "Salesforce",
       "acquiredState": "usa",
       "acquired": "Slack",
+      "acquiredBusiness": "Communication",
       "price": "27,700,000,000",
       "unit": "USD",
       "officialInfo": "https://slack.com/intl/zh-cn/blog/news/salesforce-completes-acquisition-of-slack"
@@ -248,6 +382,7 @@
       "initiator": "Amazon",
       "acquiredState": "usa",
       "acquired": "MGM Holdings",
+      "acquiredBusiness": "Entertainment",
       "price": "8,450,000,000",
       "unit": "USD",
       "officialInfo": "https://www.aboutamazon.com/news/company-news/amazon-and-mgm-have-signed-an-agreement-for-amazon-to-acquire-mgm"
@@ -258,6 +393,7 @@
       "initiator": "字节跳动",
       "acquiredState": "china",
       "acquired": "沐瞳科技",
+      "acquiredBusiness": "Gaming",
       "price": "4,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.reuters.com/article/us-bytedance-videogames-mooton-idUSKBN2BE0ES"
@@ -268,6 +404,7 @@
       "initiator": "Broadcom",
       "acquiredState": "usa",
       "acquired": "Symantec",
+      "acquiredBusiness": "Cybersecurity",
       "price": "10,700,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-symantec-enterprise-security-business-107"
@@ -278,6 +415,7 @@
       "initiator": "IBM",
       "acquiredState": "usa",
       "acquired": "Red Hat",
+      "acquiredBusiness": "Software",
       "price": "34,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat"
@@ -288,6 +426,7 @@
       "initiator": "The Walt Disney Company",
       "acquiredState": "usa",
       "acquired": "21st Century Fox",
+      "acquiredBusiness": "Entertainment",
       "price": "71,300,000,000",
       "unit": "USD",
       "officialInfo": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-to-acquire-twenty-first-century-fox-inc-after-spinoff-of-certain-businesses-for-52-4-billion-in-stock/"
@@ -298,6 +437,7 @@
       "initiator": "Microsoft",
       "acquiredState": "usa",
       "acquired": "GitHub",
+      "acquiredBusiness": "Software",
       "price": "7,500,000,000",
       "unit": "USD",
       "officialInfo": "https://news.microsoft.com/source/2018/06/04/microsoft-to-acquire-github-for-7-5-billion/"
@@ -308,6 +448,7 @@
       "initiator": "阿里巴巴",
       "acquiredState": "china",
       "acquired": "饿了么",
+      "acquiredBusiness": "Local Services",
       "price": "9,500,000,000",
       "unit": "USD",
       "officialInfo": "https://www.alibabanews.com/alibabaquanzishougouzhongguoxianshangwaimaipingtaieleme/"
@@ -318,6 +459,7 @@
       "initiator": "腾讯",
       "acquiredState": "finland",
       "acquired": "SuperCell",
+      "acquiredBusiness": "Gaming",
       "price": "8,600,000,000",
       "unit": "USD",
       "officialInfo": "https://group.softbank/en/news/press/20160621"
@@ -328,6 +470,7 @@
       "initiator": "Microsoft",
       "acquiredState": "usa",
       "acquired": "LinkedIn",
+      "acquiredBusiness": "Social Media",
       "price": "26,200,000,000",
       "unit": "USD",
       "officialInfo": "https://news.microsoft.com/source/2016/06/13/microsoft-to-acquire-linkedin/"
