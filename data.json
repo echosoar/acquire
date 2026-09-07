@@ -311,6 +311,17 @@
       "officialInfo": "https://www.amd.com/zh-cn/newsroom/press-releases/2024-8-19-amd-to-significantly-expand-data-center-ai-systems.html"
     },
     {
+      "date": "24/04/24",
+      "initiatorState": "usa",
+      "initiator": "Nvidia",
+      "acquiredState": "usa",
+      "acquired": "Run:ai",
+      "acquiredBusiness": "AI",
+      "price": "700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://blogs.nvidia.com/blog/runai/"
+    },
+    {
       "date": "23/11/22",
       "initiatorState": "usa",
       "initiator": "Broadcom",
@@ -397,6 +408,17 @@
       "price": "4,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.reuters.com/article/us-bytedance-videogames-mooton-idUSKBN2BE0ES"
+    },
+    {
+      "date": "20/01/06",
+      "initiatorState": "usa",
+      "initiator": "Paypal",
+      "acquiredState": "usa",
+      "acquired": "Honey",
+      "acquiredBusiness": "E-commerce",
+      "price": "4,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.pypl.com/news-and-events/news-details/2020/PayPal-Completes-Acquisition-of-Honey/default.aspx"
     },
     {
       "date": "19/11/04",
