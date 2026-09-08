@@ -136,6 +136,17 @@
       "officialInfo": "https://zh.wikipedia.org/zh-hk/%E6%B2%90%E7%9E%B3%E7%A7%91%E6%8A%80"
     },
     {
+      "date": "26/02/27",
+      "initiatorState": "switzerland",
+      "initiator": "Novartis",
+      "acquiredState": "usa",
+      "acquired": "Avidity",
+      "acquiredBusiness": "Biopharmaceutical",
+      "price": "12,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy"
+    },
+    {
       "date": "26/02/25",
       "initiatorState": "usa",
       "initiator": "Anthropic",
@@ -191,6 +202,17 @@
       "officialInfo": "https://www.salesforce.com/news/press-releases/2025/11/18/salesforce-completes-acquisition-of-informatica/"
     },
     {
+      "date": "25/11/03",
+      "initiatorState": "usa",
+      "initiator": "Kimberly-Clark",
+      "acquiredState": "usa",
+      "acquired": "Kenvue",
+      "acquiredBusiness": "Consumer Goods",
+      "price": "48,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.kenvue.com/financial-news/news-details/2025/Kimberly-Clark-to-Acquire-Kenvue-Creating-a-32-Billion-Global-Health-and-Wellness-Leader/default.aspx"
+    },
+    {
       "date": "25/09/10",
       "initiatorState": "usa",
       "initiator": "Bending Spoons",
@@ -211,6 +233,17 @@
       "price": "32,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
+    },
+    {
+      "date": "25/07/30",
+      "initiatorState": "usa",
+      "initiator": "Palo Alto Networks",
+      "acquiredState": "usa",
+      "acquired": "CyberArk",
+      "acquiredBusiness": "Cybersecurity",
+      "price": "25,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-announces-agreement-to-acquire-cyberark--the-identity-security-leader"
     },
     {
       "date": "25/07/16",
