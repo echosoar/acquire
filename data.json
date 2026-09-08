@@ -12,6 +12,18 @@
       "officialInfo": "https://blogs.nvidia.com/blog/nvidia-to-acquire-hugging-face/"
     },
     {
+      "date": "26/09/01",
+      "initiatorState": "usa",
+      "initiator": "Starman Holding",
+      "acquiredState": "usa",
+      "acquired": "Go Pro",
+      "acquiredBusiness": "Camera",
+      "ratio": 0.9,
+      "price": "285,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.gopro.com/press-releases/press-release-details/2026/GOPRO-ENTERS-INTO-DEFINITIVE-AGREEMENT-TO-MERGE-WITH-STARMAN-OPTICAL-INC-/default.aspx"
+    },
+    {
       "date": "26/08/19",
       "initiatorState": "usa",
       "initiator": "Stripe",
@@ -78,6 +90,17 @@
       "officialInfo": "https://aligneddc.com/press-release/aip-mgx-and-blackrocks-gip-close-acquisition-of-aligned-data-centers/"
     },
     {
+      "date": "26/06/30",
+      "initiatorState": "france",
+      "initiator": "Schneider Electric",
+      "acquiredState": "norway",
+      "acquired": "Cognite",
+      "acquiredBusiness": "Software",
+      "price": "3,100,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite"
+    },
+    {
       "date": "26/05/17",
       "initiatorState": "usa",
       "initiator": "IBM",
@@ -122,6 +145,17 @@
       "price": "50,000,000",
       "unit": "USD",
       "officialInfo": "https://www.anthropic.com/news/acquires-vercept"
+    },
+    {
+      "date": "26/01/20",
+      "initiatorState": "usa",
+      "initiator": "Verizon",
+      "acquiredState": "usa",
+      "acquired": "Frontier",
+      "acquiredBusiness": "Telecommunications",
+      "price": "20,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.verizon.com/about/news/verizon-and-frontier-regulatory-approval"
     },
     {
       "date": "25/12/29",
@@ -366,6 +400,72 @@
       "officialInfo": "https://www.sec.gov/Archives/edgar/data/1418091/000119312522272772/d411753d8k.htm"
     },
     {
+      "date": "22/09/13",
+      "initiatorState": "usa",
+      "initiator": "Google",
+      "acquiredState": "usa",
+      "acquired": "Mandiant",
+      "acquiredBusiness": "Cybersecurity",
+      "price": "5,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant"
+    },
+    {
+      "date": "22/06/08",
+      "initiatorState": "usa",
+      "initiator": "Oracle",
+      "acquiredState": "usa",
+      "acquired": "Cerner",
+      "acquiredBusiness": "Healthcare",
+      "price": "28,300,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.oracle.com/cn/corporate/acquisitions/cerner/"
+    },
+    {
+      "date": "22/03/04",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "usa",
+      "acquired": "Nuance",
+      "acquiredBusiness": "AI",
+      "price": "19,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/source/2022/03/04/microsoft-completes-acquisition-of-nuance-ushering-in-new-era-of-outcomes-based-ai/"
+    },
+    {
+      "date": "22/02/24",
+      "initiatorState": "usa",
+      "initiator": "AMD",
+      "acquiredState": "usa",
+      "acquired": "Xilinx",
+      "acquiredBusiness": "Semiconductor",
+      "price": "48,800,000,000",
+      "unit": "USD",
+      "officialInfo": "https://ir.amd.com/financial-information/sec-filings/content/0001193125-22-123652/0001193125-22-123652.pdf"
+    },
+    {
+      "date": "22/01/31",
+      "initiatorState": "usa",
+      "initiator": "Vista Equity Partners, Evergreen Coast Capital",
+      "acquiredState": "usa",
+      "acquired": "Citrix",
+      "acquiredBusiness": "Software",
+      "price": "16,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.vistaequitypartners.com/news/citrix-to-be-acquired-by-affiliates-of-vista-equity-partners-and-evergreen-coast-capital-for-16-5-billion/"
+    },
+    {
+      "date": "22/01/31",
+      "initiatorState": "usa",
+      "initiator": "Intel",
+      "acquiredState": "usa",
+      "acquired": "Tower",
+      "acquiredBusiness": "Semiconductor",
+      "price": "5,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.intc.com/news-events/press-releases/detail/1527/intel-to-acquire-tower-semiconductor-for-5-4-billion"
+    },
+    {
       "date": "22/01/18",
       "initiatorState": "usa",
       "initiator": "Microsoft",
@@ -375,6 +475,17 @@
       "price": "68,700,000,000",
       "unit": "USD",
       "officialInfo": "https://news.microsoft.com/source/2022/01/18/microsoft-to-acquire-activision-blizzard-to-bring-the-joy-and-community-of-gaming-to-everyone-across-every-device/"
+    },
+    {
+      "date": "21/09/10",
+      "initiatorState": "usa",
+      "initiator": "Apollo Funds",
+      "acquiredState": "usa",
+      "acquired": "Yahoo",
+      "acquiredBusiness": "Internet",
+      "price": "5,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.apollo.com/wealth/insights-news/pressreleases/2021/09/apollo-funds-complete-acquisition-of-yahoo-161530593"
     },
     {
       "date": "21/07/21",
@@ -476,6 +587,17 @@
       "officialInfo": "https://www.alibabanews.com/alibabaquanzishougouzhongguoxianshangwaimaipingtaieleme/"
     },
     {
+      "date": "16/07/25",
+      "initiatorState": "usa",
+      "initiator": "Verizon",
+      "acquiredState": "usa",
+      "acquired": "Yahoo",
+      "acquiredBusiness": "Internet",
+      "price": "4,830,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.theverge.com/2016/7/25/12269898/verizon-acquires-yahoo-4-billion-marissa-mayer"
+    },
+    {
       "date": "16/06/21",
       "initiatorState": "china",
       "initiator": "腾讯",
@@ -496,6 +618,28 @@
       "price": "26,200,000,000",
       "unit": "USD",
       "officialInfo": "https://news.microsoft.com/source/2016/06/13/microsoft-to-acquire-linkedin/"
+    },
+    {
+      "date": "15/05/12",
+      "initiatorState": "usa",
+      "initiator": "Verizon",
+      "acquiredState": "usa",
+      "acquired": "AOL",
+      "acquiredBusiness": "Internet",
+      "price": "4,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.bbc.com/news/business-32702558"
+    },
+    {
+      "date": "14/08/15",
+      "initiatorState": "usa",
+      "initiator": "Amazon",
+      "acquiredState": "usa",
+      "acquired": "Twitch",
+      "acquiredBusiness": "Entertainment",
+      "price": "970,000,000",
+      "unit": "USD",
+      "officialInfo": "https://press.aboutamazon.com/2014/8/amazon-com-to-acquire-twitch"
     }
   ]
 }
