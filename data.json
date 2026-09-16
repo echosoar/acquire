@@ -90,6 +90,17 @@
       "officialInfo": "https://aligneddc.com/press-release/aip-mgx-and-blackrocks-gip-close-acquisition-of-aligned-data-centers/"
     },
     {
+      "date": "26/07/06",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "china",
+      "acquired": "Charter Joy",
+      "acquiredBusiness": "Estate",
+      "price": "750,000,000",
+      "unit": "HKD",
+      "officialInfo": "https://www.jiemian.com/article/14708550.html"
+    },
+    {
       "date": "26/06/30",
       "initiatorState": "france",
       "initiator": "Schneider Electric",
@@ -158,6 +169,17 @@
       "officialInfo": "https://www.anthropic.com/news/acquires-vercept"
     },
     {
+      "date": "26/02/05",
+      "initiatorState": "china",
+      "initiator": "美团",
+      "acquiredState": "china",
+      "acquired": "叮咚买菜",
+      "acquiredBusiness": "Local Services",
+      "price": "717,000,000",
+      "unit": "USD",
+      "officialInfo": "https://media-meituan.todayir.com/20260205171601198812016198_tc.pdf"
+    },
+    {
       "date": "26/01/20",
       "initiatorState": "usa",
       "initiator": "Verizon",
@@ -213,6 +235,17 @@
       "officialInfo": "https://investors.kenvue.com/financial-news/news-details/2025/Kimberly-Clark-to-Acquire-Kenvue-Creating-a-32-Billion-Global-Health-and-Wellness-Leader/default.aspx"
     },
     {
+      "date": "25/10/09",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "china",
+      "acquired": "达达集团",
+      "acquiredBusiness": "Express",
+      "price": "270,000,000",
+      "unit": "USD",
+      "officialInfo": "https://finance.eastmoney.com/a/202510093529335868.html"
+    },
+    {
       "date": "25/09/10",
       "initiatorState": "usa",
       "initiator": "Bending Spoons",
@@ -235,6 +268,17 @@
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
     },
     {
+      "date": "25/08/07",
+      "initiatorState": "china",
+      "initiator": "分众传媒",
+      "acquiredState": "china",
+      "acquired": "新潮传媒",
+      "acquiredBusiness": "Media",
+      "price": "8,300,000,000",
+      "unit": "RMB",
+      "officialInfo": "https://stcn.com/article/detail/2997770.html"
+    },
+    {
       "date": "25/07/30",
       "initiatorState": "usa",
       "initiator": "Palo Alto Networks",
@@ -244,6 +288,17 @@
       "price": "25,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-announces-agreement-to-acquire-cyberark--the-identity-security-leader"
+    },
+    {
+      "date": "25/07/30",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "germany",
+      "acquired": "CECONOMY",
+      "acquiredBusiness": "Retail",
+      "price": "1,641,200,000",
+      "unit": "EUR",
+      "officialInfo": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-decision-make-voluntary-public-takeover-offer"
     },
     {
       "date": "25/07/16",
@@ -345,6 +400,17 @@
       "officialInfo": "https://investors.globalpayments.com/news-events/press-releases/detail/469/global-payments-announces-agreements-to-acquire-worldpay"
     },
     {
+      "date": "25/04/03",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "australia",
+      "acquired": "Wacol",
+      "acquiredBusiness": "Express",
+      "price": "240,000,000",
+      "unit": "AUD",
+      "officialInfo": "https://www.afr.com/property/commercial/chinese-e-commerce-giant-buys-first-aussie-warehouse-and-it-s-big-20250709-p5mdno"
+    },
+    {
       "date": "25/03/19",
       "initiatorState": "japan",
       "initiator": "SoftBank",
@@ -378,6 +444,17 @@
       "officialInfo": "https://www.amd.com/zh-cn/newsroom/press-releases/2024-8-19-amd-to-significantly-expand-data-center-ai-systems.html"
     },
     {
+      "date": "24/05/14",
+      "initiatorState": "china",
+      "initiator": "字节跳动",
+      "acquiredState": "china",
+      "acquired": "Oladance",
+      "acquiredBusiness": "Audio",
+      "price": "50,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.itjuzi.com/company/41975274"
+    },
+    {
       "date": "24/04/24",
       "initiatorState": "usa",
       "initiator": "Nvidia",
@@ -387,6 +464,17 @@
       "price": "700,000,000",
       "unit": "USD",
       "officialInfo": "https://blogs.nvidia.com/blog/runai/"
+    },
+    {
+      "date": "24/05/14",
+      "initiatorState": "china",
+      "initiator": "字节跳动",
+      "acquiredState": "china",
+      "acquired": "联动优势",
+      "acquiredBusiness": "Fintech",
+      "price": "1,400,000,000",
+      "unit": "RMB",
+      "officialInfo": "https://www.itjuzi.com/company/13305"
     },
     {
       "date": "23/11/22",
@@ -444,6 +532,17 @@
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant"
     },
     {
+      "date": "22/07/13",
+      "initiatorState": "usa",
+      "initiator": "Unity",
+      "acquiredState": "usa",
+      "acquired": "ironSource",
+      "acquiredBusiness": "Gaming",
+      "price": "4,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.unity.com/news/news-details/2022/Unity-Announces-Merger-Agreement-with-ironSource/default.aspx"
+    },
+    {
       "date": "22/06/08",
       "initiatorState": "usa",
       "initiator": "Oracle",
@@ -453,6 +552,17 @@
       "price": "28,300,000,000",
       "unit": "USD",
       "officialInfo": "https://www.oracle.com/cn/corporate/acquisitions/cerner/"
+    },
+    {
+      "date": "22/03/13",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "china",
+      "acquired": "德邦物流",
+      "acquiredBusiness": "Logistics",
+      "price": "8,976,000,000",
+      "unit": "RMB",
+      "officialInfo": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-proposed-acquisition-deppon-logistics-co-ltd-jd"
     },
     {
       "date": "22/03/04",
@@ -552,6 +662,17 @@
       "price": "4,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.reuters.com/article/us-bytedance-videogames-mooton-idUSKBN2BE0ES"
+    },
+    {
+      "date": "20/08/13",
+      "initiatorState": "china",
+      "initiator": "京东",
+      "acquiredState": "china",
+      "acquired": "跨越速运",
+      "acquiredBusiness": "Express",
+      "price": "3,000,000,000",
+      "unit": "RMB",
+      "officialInfo": "https://ir.jd.com/news-releases/news-release-details/jd-acquire-controlling-interest-kuayue-express"
     },
     {
       "date": "20/01/06",
