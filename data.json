@@ -191,6 +191,17 @@
       "officialInfo": "https://www.verizon.com/about/news/verizon-and-frontier-regulatory-approval"
     },
     {
+      "date": "26/01/15",
+      "initiatorState": "usa",
+      "initiator": "Boston Scientific",
+      "acquiredState": "usa",
+      "acquired": "Penumbra",
+      "acquiredBusiness": "Medical",
+      "price": "14,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.penumbrainc.com/boston-scientific-announces-agreement-to-acquire-penumbra-inc/"
+    },
+    {
       "date": "25/12/29",
       "initiatorState": "japan",
       "initiator": "SoftBank",
@@ -266,6 +277,17 @@
       "price": "32,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
+    },
+    {
+      "date": "25/09/04",
+      "initiatorState": "usa",
+      "initiator": "Atlassian",
+      "acquiredState": "usa",
+      "acquired": "The Browser Company",
+      "acquiredBusiness": "Software",
+      "price": "610,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.atlassian.com/blog/company-news/atlassian-acquires-the-browser-company"
     },
     {
       "date": "25/08/07",
@@ -486,6 +508,17 @@
       "price": "61,000,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware"
+    },
+    {
+      "date": "23/08/10",
+      "initiatorState": "japan",
+      "initiator": "SEGA",
+      "acquiredState": "finland",
+      "acquired": "Rovio",
+      "acquiredBusiness": "Gaming",
+      "price": "776,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.rovio.com/articles/final-results-requirements-met-for-sega-europe-to-acquire-rovio-entertainment-corporation/"
     },
     {
       "date": "23/07/12",
