@@ -466,7 +466,7 @@
       "officialInfo": "https://blogs.nvidia.com/blog/runai/"
     },
     {
-      "date": "24/05/14",
+      "date": "24/04/03",
       "initiatorState": "china",
       "initiator": "字节跳动",
       "acquiredState": "china",
@@ -794,6 +794,17 @@
       "price": "970,000,000",
       "unit": "USD",
       "officialInfo": "https://press.aboutamazon.com/2014/8/amazon-com-to-acquire-twitch"
+    },
+    {
+      "date": "06/10/09",
+      "initiatorState": "usa",
+      "initiator": "Google",
+      "acquiredState": "usa",
+      "acquired": "YouTube",
+      "acquiredBusiness": "Entertainment",
+      "price": "1,650,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.sec.gov/Archives/edgar/data/1288776/000119312506206884/dex991.htm"
     }
   ]
 }
