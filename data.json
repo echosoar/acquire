@@ -79,6 +79,17 @@
       "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
     },
     {
+      "date": "2026/07/31",
+      "initiatorState": "usa",
+      "initiator": "IonQ",
+      "acquiredState": "usa",
+      "acquired": "SkyWater",
+      "acquiredBusiness": "Semiconductor",
+      "price": "1,800,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.ionq.com/news/ionq-completes-acquisition-of-skywater-technology"
+    },
+    {
       "date": "2026/07/21",
       "initiatorState": "united-arab-emirates",
       "initiator": "MGX, BlackRock",
@@ -191,6 +202,28 @@
       "officialInfo": "https://media-meituan.todayir.com/20260205171601198812016198_tc.pdf"
     },
     {
+      "date": "2026/02/04",
+      "initiatorState": "usa",
+      "initiator": "KKR",
+      "acquiredState": "singapore",
+      "acquired": "STT GDC",
+      "acquiredBusiness": "Data Center",
+      "price": "5,100,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.sttgdc.com/newsroom/kkr-led-consortium-to-fully-acquire-stt-gdc-13.8-billion-enterprise-value"
+    },
+    {
+      "date": "2026/01/29",
+      "initiatorState": "usa",
+      "initiator": "Apple",
+      "acquiredState": "israel",
+      "acquired": "Q.ai",
+      "acquiredBusiness": "AI",
+      "price": "2,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.reuters.com/business/apple-acquires-audio-ai-startup-qai-2026-01-29/"
+    },
+    {
       "date": "2026/01/20",
       "initiatorState": "usa",
       "initiator": "Verizon",
@@ -284,7 +317,7 @@
       "initiator": "Google",
       "acquiredState": "israel",
       "acquired": "Wiz",
-      "acquiredBusiness": "Cybersecurity",
+      "acquiredBusiness": "Security",
       "price": "32,000,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-announces-agreement-acquire-wiz"
@@ -312,12 +345,23 @@
       "officialInfo": "https://stcn.com/article/detail/2997770.html"
     },
     {
+      "date": "2025/08/05",
+      "initiatorState": "usa",
+      "initiator": "TPG",
+      "acquiredState": "australia",
+      "acquired": "Infomedia",
+      "acquiredBusiness": "Software",
+      "price": "421,000,000",
+      "unit": "USD",
+      "officialInfo": "https://pe-insights.com/tpg-to-acquire-infomedia-in-421m-deal-expanding-global-software-portfolio/"
+    },
+    {
       "date": "2025/07/30",
       "initiatorState": "usa",
       "initiator": "Palo Alto Networks",
       "acquiredState": "usa",
       "acquired": "CyberArk",
-      "acquiredBusiness": "Cybersecurity",
+      "acquiredBusiness": "Security",
       "price": "25,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-announces-agreement-to-acquire-cyberark--the-identity-security-leader"
@@ -532,6 +576,17 @@
       "officialInfo": "https://www.itjuzi.com/company/13305"
     },
     {
+      "date": "2024/02/02",
+      "initiatorState": "china",
+      "initiator": "美图",
+      "acquiredState": "china",
+      "acquired": "站酷",
+      "acquiredBusiness": "Design",
+      "price": "39,640,500",
+      "unit": "USD",
+      "officialInfo": "https://www.eeo.com.cn/2024/0204/634979.shtml"
+    },
+    {
       "date": "2023/11/22",
       "initiatorState": "usa",
       "initiator": "Broadcom",
@@ -541,6 +596,28 @@
       "price": "61,000,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware"
+    },
+    {
+      "date": "2023/09/21",
+      "initiatorState": "usa",
+      "initiator": "Cisco",
+      "acquiredState": "usa",
+      "acquired": "Splunk",
+      "acquiredBusiness": "Security",
+      "price": "28,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.cisco.com/news/news-details/2023/Cisco-to-Acquire-Splunk-to-Help-Make-Organizations-More-Secure-and-Resilient-in-an-AI-Powered-World/default.aspx"
+    },
+    {
+      "date": "2023/09/20",
+      "initiatorState": "china",
+      "initiator": "阿里影业",
+      "acquiredState": "china",
+      "acquired": "大麦",
+      "acquiredBusiness": "Entertainment",
+      "price": "167,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.alibabanews.com/%E9%98%BF%E9%87%8C%E5%BD%B1%E6%A5%AD%E5%AE%A3%E4%BD%88%E6%94%B6%E8%B3%BC%E5%A4%A7%E9%BA%A5/"
     },
     {
       "date": "2023/08/10",
@@ -592,7 +669,7 @@
       "initiator": "Google",
       "acquiredState": "usa",
       "acquired": "Mandiant",
-      "acquiredBusiness": "Cybersecurity",
+      "acquiredBusiness": "Security",
       "price": "5,400,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant"
@@ -757,7 +834,7 @@
       "initiator": "Broadcom",
       "acquiredState": "usa",
       "acquired": "Symantec",
-      "acquiredBusiness": "Cybersecurity",
+      "acquiredBusiness": "Security",
       "price": "10,700,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-acquire-symantec-enterprise-security-business-107"
