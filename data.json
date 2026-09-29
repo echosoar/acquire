@@ -1,6 +1,17 @@
 {
   "list": [
     {
+      "date": "2026/09/28",
+      "initiatorState": "usa",
+      "initiator": "AMD",
+      "acquiredState": "usa",
+      "acquired": "World Labs",
+      "acquiredBusiness": "AI",
+      "price": "8,200,000,000",
+      "unit": "USD",
+      "officialInfo": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
+    },
+    {
       "date": "2026/09/03",
       "initiatorState": "usa",
       "initiator": "Nvidia",
@@ -121,6 +132,17 @@
       "price": "3,100,000,000",
       "unit": "USD",
       "officialInfo": "https://www.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite"
+    },
+    {
+      "date": "2026/06/17",
+      "initiatorState": "usa",
+      "initiator": "Accenture",
+      "acquiredState": "usa",
+      "acquired": "Ookla",
+      "acquiredBusiness": "Internet",
+      "price": "1,200,000,000",
+      "unit": "USD",
+      "officialInfo": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises"
     },
     {
       "date": "2026/05/17",
@@ -310,6 +332,28 @@
       "price": "48,700,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.kenvue.com/financial-news/news-details/2025/Kimberly-Clark-to-Acquire-Kenvue-Creating-a-32-Billion-Global-Health-and-Wellness-Leader/default.aspx"
+    },
+    {
+      "date": "2025/10/21",
+      "initiatorState": "usa",
+      "initiator": "Coinbase",
+      "acquiredState": "united-kingdom",
+      "acquired": "Echo",
+      "acquiredBusiness": "Fintech",
+      "price": "375,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.coinbase.com/zh-cn/blog/coinbase-acquires-echo-unlocking-the-future-of-onchain-capital-formation"
+    },
+    {
+      "date": "2025/10/16",
+      "initiatorState": "usa",
+      "initiator": "Ripple",
+      "acquiredState": "usa",
+      "acquired": "GTreasury",
+      "acquiredBusiness": "Fintech",
+      "price": "1,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://treasury.ripple.com/news/ripple-acquires-gtreasury"
     },
     {
       "date": "2025/10/09",
@@ -510,6 +554,17 @@
       "officialInfo": "https://www.midea.com.cn/zh/about-midea/news/_teka_"
     },
     {
+      "date": "2025/04/29",
+      "initiatorState": "china",
+      "initiator": "蚂蚁集团",
+      "acquiredState": "china",
+      "acquired": "耀才证券",
+      "acquiredBusiness": "Financial",
+      "price": "2,814,000,000",
+      "unit": "HKD",
+      "officialInfo": "https://www.stcn.com/article/detail/3890940.html"
+    },
+    {
       "date": "2025/04/17",
       "initiatorState": "usa",
       "initiator": "Global Payments",
@@ -640,6 +695,17 @@
       "price": "61,000,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.broadcom.com/news-releases/news-release-details/broadcom-completes-acquisition-vmware"
+    },
+    {
+      "date": "2023/09/27",
+      "initiatorState": "china",
+      "initiator": "比亚迪",
+      "acquiredState": "singapore",
+      "acquired": "捷普移动电子制造",
+      "acquiredBusiness": "Electronics",
+      "price": "2,200,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.stcn.com/article/detail/993361.html"
     },
     {
       "date": "2023/09/21",
