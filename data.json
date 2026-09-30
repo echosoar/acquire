@@ -12,6 +12,17 @@
       "officialInfo": "https://ir.amd.com/news-events/press-releases/detail/1299/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute"
     },
     {
+      "date": "2026/09/10",
+      "initiatorState": "italy",
+      "initiator": "Bending Spoons",
+      "acquiredState": "usa",
+      "acquired": "Miro",
+      "acquiredBusiness": "Software",
+      "price": "1,355,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-miro"
+    },
+    {
       "date": "2026/09/03",
       "initiatorState": "usa",
       "initiator": "Nvidia",
@@ -57,8 +68,19 @@
       "officialInfo": "https://cursor.com/cn/blog/joining-spacex"
     },
     {
-      "date": "2026/08/04",
+      "date": "2026/08/13",
       "initiatorState": "usa",
+      "initiator": "Dynatrace",
+      "acquiredState": "usa",
+      "acquired": "Arize",
+      "acquiredBusiness": "AI",
+      "price": "915,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.dynatrace.com/news/press-release/dynatrace-to-acquire-arize/"
+    },
+    {
+      "date": "2026/08/04",
+      "initiatorState": "italy",
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Airtable",
@@ -66,17 +88,6 @@
       "price": "1,285,000,000",
       "unit": "USD",
       "officialInfo": "https://investors.bendingspoons.com/newsroom/bending-spoons-agrees-to-acquire-airtable"
-    },
-    {
-      "date": "2026/08/03",
-      "initiatorState": "usa",
-      "initiator": "Mastercard",
-      "acquiredState": "usa",
-      "acquired": " BVNK",
-      "acquiredBusiness": "Fintech",
-      "price": "1,800,000,000",
-      "unit": "USD",
-      "officialInfo": "https://www.mastercard.com/global/en/news-and-trends/press/2026/august/mastercard-completes-acquisition-of-bvnk-to-advance-global-stabl.html"
     },
     {
       "date": "2026/08/04",
@@ -88,6 +99,28 @@
       "price": "55,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.ea.com/news/ea-announces-completion-of-acquisition"
+    },
+    {
+      "date": "2026/08/03",
+      "initiatorState": "usa",
+      "initiator": "Mastercard",
+      "acquiredState": "united-kingdom",
+      "acquired": "BVNK",
+      "acquiredBusiness": "Fintech",
+      "price": "1,800,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.mastercard.com/global/en/news-and-trends/press/2026/august/mastercard-completes-acquisition-of-bvnk-to-advance-global-stabl.html"
+    },
+    {
+      "date": "2026/08/03",
+      "initiatorState": "usa",
+      "initiator": "Visa",
+      "acquiredState": "israel",
+      "acquired": "BioCatch",
+      "acquiredBusiness": "Security",
+      "price": "2,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.visa.com/news/news-details/2026/Visa-to-Acquire-BioCatch/default.aspx"
     },
     {
       "date": "2026/07/31",
@@ -132,6 +165,17 @@
       "price": "3,100,000,000",
       "unit": "USD",
       "officialInfo": "https://www.cognite.com/en/company/newsroom/schneider-electric-announces-agreement-to-acquire-cognite"
+    },
+    {
+      "date": "2026/06/22",
+      "initiatorState": "usa",
+      "initiator": "AbbVie",
+      "acquiredState": "usa",
+      "acquired": "Apogee Therapeutics",
+      "acquiredBusiness": "Biopharmaceutical",
+      "price": "10,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investors.abbvie.com/news-releases/news-release-details/abbvie-acquire-apogee-therapeutics-deepening-immunology"
     },
     {
       "date": "2026/06/17",
@@ -191,6 +235,17 @@
       "officialInfo": "https://investors.globalstar.com/news-releases/news-release-details/amazon-acquire-globalstar-and-expand-amazon-leo-satellite"
     },
     {
+      "date": "2026/03/25",
+      "initiatorState": "usa",
+      "initiator": "Ecolab",
+      "acquiredState": "canada",
+      "acquired": "CoolIT Systems",
+      "acquiredBusiness": "Data Center",
+      "price": "4,750,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.ecolab.com/en-us/media-center/news/ecolab-to-acquire-coolit-systems-a-global-leader-in-advanced-liquid-cooling-for-next-gen-ai-data-centers"
+    },
+    {
       "date": "2026/03/20",
       "initiatorState": "saudi-arabia",
       "initiator": "PIF",
@@ -211,6 +266,17 @@
       "price": "12,000,000,000",
       "unit": "USD",
       "officialInfo": "https://www.novartis.com/news/media-releases/novartis-successfully-completes-acquisition-avidity-biosciences-strengthening-late-stage-neuroscience-pipeline-and-advancing-xrna-strategy"
+    },
+    {
+      "date": "2026/02/27",
+      "initiatorState": "usa",
+      "initiator": "Paramount Skydance",
+      "acquiredState": "usa",
+      "acquired": "Warner Bros. Discovery",
+      "acquiredBusiness": "Entertainment",
+      "price": "110,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.paramount.com/press/paramount-to-acquire-warner-bros-discovery-to-form-next-generation-global-media-and-entertainment-company"
     },
     {
       "date": "2026/02/25",
@@ -290,6 +356,17 @@
       "officialInfo": "https://www.digitalbridge.com/news/2025-12-29-softbank-group-to-acquire-digitalbridge-for-4-billion-to-scale-next-gen-ai-infrastructure"
     },
     {
+      "date": "2025/12/23",
+      "initiatorState": "usa",
+      "initiator": "ServiceNow",
+      "acquiredState": "usa",
+      "acquired": "Armis",
+      "acquiredBusiness": "Security",
+      "price": "7,750,000,000",
+      "unit": "USD",
+      "officialInfo": "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-to-acquire-Armis-to-expand-cyber-exposure-and-security-across-the-full-attack-surface-in-IT-OT-and-medical-devices-for-companies-governments-and-critical-infrastructure-worldwide/default.aspx"
+    },
+    {
       "date": "2025/12/17",
       "initiatorState": "united-kingdom",
       "initiator": "Vodafone",
@@ -310,6 +387,39 @@
       "price": "20,000,000,000",
       "unit": "USD",
       "officialInfo": "https://groq.com/newsroom/groq-and-nvidia-enter-non-exclusive-inference-technology-licensing-agreement-to-accelerate-ai-inference-at-global-scale"
+    },
+    {
+      "date": "2025/12/02",
+      "initiatorState": "usa",
+      "initiator": "Marvell",
+      "acquiredState": "usa",
+      "acquired": "Celestial AI",
+      "acquiredBusiness": "Semiconductor",
+      "price": "3,250,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.marvell.com/news-events/press-releases/detail/1000/marvell-to-acquire-celestial-ai-accelerating-scale-up-connectivity-for-next-generation-data-centers"
+    },
+    {
+      "date": "2025/11/19",
+      "initiatorState": "usa",
+      "initiator": "Palo Alto Networks",
+      "acquiredState": "usa",
+      "acquired": "Chronosphere",
+      "acquiredBusiness": "Software",
+      "price": "3,350,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.paloaltonetworks.com/company/press/2025/palo-alto-networks-to-acquire-chronosphere--next-gen-observability-leader--for-the-ai-era"
+    },
+    {
+      "date": "2025/11/19",
+      "initiatorState": "usa",
+      "initiator": "Adobe",
+      "acquiredState": "usa",
+      "acquired": "Semrush",
+      "acquiredBusiness": "Marketing",
+      "price": "1,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.adobe.com/news/2025/11/adobe-to-acquire-semrush"
     },
     {
       "date": "2025/11/18",
@@ -367,8 +477,30 @@
       "officialInfo": "https://finance.eastmoney.com/a/202510093529335868.html"
     },
     {
-      "date": "2025/09/10",
+      "date": "2025/10/08",
+      "initiatorState": "japan",
+      "initiator": "SoftBank",
+      "acquiredState": "switzerland",
+      "acquired": "ABB Robotics",
+      "acquiredBusiness": "Robotics",
+      "price": "5,375,000,000",
+      "unit": "USD",
+      "officialInfo": "https://group.softbank/en/news/press/20251008"
+    },
+    {
+      "date": "2025/10/06",
       "initiatorState": "usa",
+      "initiator": "Qualtrics",
+      "acquiredState": "usa",
+      "acquired": "Press Ganey Forsta",
+      "acquiredBusiness": "Software",
+      "price": "6,750,000,000",
+      "unit": "USD",
+      "officialInfo": "https://qualtrics.com/news/qualtrics-to-invest-6-75-billion-in-press-ganey-forsta-acquisition-to-advance-ai-powered-experience-management"
+    },
+    {
+      "date": "2025/09/10",
+      "initiatorState": "italy",
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Vimeo",
@@ -444,6 +576,17 @@
       "officialInfo": "https://ir.jd.com/news-releases/news-release-details/jdcom-announces-decision-make-voluntary-public-takeover-offer"
     },
     {
+      "date": "2025/07/29",
+      "initiatorState": "usa",
+      "initiator": "Union Pacific",
+      "acquiredState": "usa",
+      "acquired": "Norfolk Southern",
+      "acquiredBusiness": "Railway",
+      "price": "85,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.norfolksouthern.com/en/newsroom/news-releases/union-pacific-and-norfolk-southern-to-create-america-s-first-transcontinental-railroad"
+    },
+    {
       "date": "2025/07/16",
       "initiatorState": "usa",
       "initiator": "Synopsys",
@@ -510,6 +653,17 @@
       "officialInfo": "https://cn.lexmark.com/news/news-2008/news20250702.htm"
     },
     {
+      "date": "2025/06/09",
+      "initiatorState": "usa",
+      "initiator": "Qualcomm",
+      "acquiredState": "united-kingdom",
+      "acquired": "Alphawave Semi",
+      "acquiredBusiness": "Semiconductor",
+      "price": "2,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.qualcomm.com/news-events/press-releases/news-details/2025/Qualcomm-to-Acquire-Alphawave-Semi/default.aspx"
+    },
+    {
       "date": "2025/05/27",
       "initiatorState": "usa",
       "initiator": "Motorola Solutions",
@@ -530,6 +684,17 @@
       "price": "6,500,000,000",
       "unit": "USD",
       "officialInfo": "https://openai.com/sam-and-jony/"
+    },
+    {
+      "date": "2025/05/16",
+      "initiatorState": "usa",
+      "initiator": "Charter",
+      "acquiredState": "usa",
+      "acquired": "Cox Communications",
+      "acquiredBusiness": "Telecommunications",
+      "price": "34,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://corporate.charter.com/newsroom/charter-communications-and-cox-communications-announce-definitive-agreement-to-combine-companies"
     },
     {
       "date": "2025/05/06",
@@ -576,6 +741,17 @@
       "officialInfo": "https://investors.globalpayments.com/news-events/press-releases/detail/469/global-payments-announces-agreements-to-acquire-worldpay"
     },
     {
+      "date": "2025/04/10",
+      "initiatorState": "china",
+      "initiator": "安踏",
+      "acquiredState": "germany",
+      "acquired": "Jack Wolfskin",
+      "acquiredBusiness": "Apparel",
+      "price": "290,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www1.hkexnews.hk/listedco/listconews/sehk/2025/0410/2025041000596.pdf"
+    },
+    {
       "date": "2025/04/03",
       "initiatorState": "china",
       "initiator": "京东",
@@ -620,6 +796,17 @@
       "officialInfo": "https://www.scopely.com/en/news/scopely-to-acquire-niantic-games-business-which-includes-pokemon-go-one-of-the-most-successful-mobile-games-of-all-time"
     },
     {
+      "date": "2025/03/10",
+      "initiatorState": "usa",
+      "initiator": "ServiceNow",
+      "acquiredState": "usa",
+      "acquired": "Moveworks",
+      "acquiredBusiness": "AI",
+      "price": "2,850,000,000",
+      "unit": "USD",
+      "officialInfo": "https://newsroom.servicenow.com/press-releases/details/2025/ServiceNow-completes-acquisition-of-Moveworks/default.aspx"
+    },
+    {
       "date": "2025/01/27",
       "initiatorState": "china",
       "initiator": "迅雷",
@@ -642,6 +829,17 @@
       "officialInfo": "https://www.amd.com/zh-cn/newsroom/press-releases/2024-8-19-amd-to-significantly-expand-data-center-ai-systems.html"
     },
     {
+      "date": "2024/07/10",
+      "initiatorState": "usa",
+      "initiator": "AMD",
+      "acquiredState": "finland",
+      "acquired": "Silo AI",
+      "acquiredBusiness": "AI",
+      "price": "665,000,000",
+      "unit": "USD",
+      "officialInfo": "https://ir.amd.com/news-events/press-releases/detail/1086/amd-to-acquire-silo-ai-to-accelerate-development-and-deployment-of-ai-models-on-amd-hardware"
+    },
+    {
       "date": "2024/05/14",
       "initiatorState": "china",
       "initiator": "字节跳动",
@@ -662,6 +860,17 @@
       "price": "700,000,000",
       "unit": "USD",
       "officialInfo": "https://blogs.nvidia.com/blog/runai/"
+    },
+    {
+      "date": "2024/04/24",
+      "initiatorState": "usa",
+      "initiator": "IBM",
+      "acquiredState": "usa",
+      "acquired": "HashiCorp",
+      "acquiredBusiness": "Software",
+      "price": "6,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://newsroom.ibm.com/2024-04-24-IBM-to-Acquire-HashiCorp-Inc-Creating-a-Comprehensive-End-to-End-Hybrid-Cloud-Platform"
     },
     {
       "date": "2024/04/03",
@@ -752,8 +961,19 @@
       "officialInfo": "https://www.pif.gov.sa/en/news-and-insights/newswire/2023/savvy-games-group-completes-acquisition-of-scopely-for-fourty-nine-billion/"
     },
     {
-      "date": "2022/11/16",
+      "date": "2023/06/26",
       "initiatorState": "usa",
+      "initiator": "Databricks",
+      "acquiredState": "usa",
+      "acquired": "MosaicML",
+      "acquiredBusiness": "AI",
+      "price": "1,300,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.databricks.com/company/newsroom/press-releases/databricks-signs-definitive-agreement-acquire-mosaicml-leading-generative-ai-platform"
+    },
+    {
+      "date": "2022/11/16",
+      "initiatorState": "italy",
       "initiator": "Bending Spoons",
       "acquiredState": "usa",
       "acquired": "Evernote",
@@ -783,6 +1003,17 @@
       "price": "5,400,000,000",
       "unit": "USD",
       "officialInfo": "https://cloud.google.com/blog/products/identity-security/google-completes-acquisition-of-mandiant"
+    },
+    {
+      "date": "2022/07/21",
+      "initiatorState": "usa",
+      "initiator": "Amazon",
+      "acquiredState": "usa",
+      "acquired": "One Medical",
+      "acquiredBusiness": "Healthcare",
+      "price": "3,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://press.aboutamazon.com/2022/7/amazon-and-one-medical-sign-an-agreement-for-amazon-to-acquire-one-medical"
     },
     {
       "date": "2022/07/13",
@@ -917,6 +1148,17 @@
       "officialInfo": "https://www.reuters.com/article/us-bytedance-videogames-mooton-idUSKBN2BE0ES"
     },
     {
+      "date": "2020/09/21",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "usa",
+      "acquired": "ZeniMax Media",
+      "acquiredBusiness": "Gaming",
+      "price": "7,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/2020/09/21/microsoft-to-acquire-zenimax-media-and-its-game-publisher-bethesda-softworks/"
+    },
+    {
       "date": "2020/08/13",
       "initiatorState": "china",
       "initiator": "京东",
@@ -961,6 +1203,17 @@
       "officialInfo": "https://www.ibm.com/investor/news/ibm-completes-acquisition-of-red-hat"
     },
     {
+      "date": "2019/06/10",
+      "initiatorState": "usa",
+      "initiator": "Salesforce",
+      "acquiredState": "usa",
+      "acquired": "Tableau",
+      "acquiredBusiness": "Software",
+      "price": "15,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://investor.salesforce.com/news/news-details/2019/Salesforce-Signs-Definitive-Agreement-to-Acquire-Tableau/default.aspx"
+    },
+    {
       "date": "2019/05/20",
       "initiatorState": "usa",
       "initiator": "The Walt Disney Company",
@@ -970,6 +1223,17 @@
       "price": "71,300,000,000",
       "unit": "USD",
       "officialInfo": "https://thewaltdisneycompany.com/press-releases/the-walt-disney-company-to-acquire-twenty-first-century-fox-inc-after-spinoff-of-certain-businesses-for-52-4-billion-in-stock/"
+    },
+    {
+      "date": "2019/03/11",
+      "initiatorState": "usa",
+      "initiator": "Nvidia",
+      "acquiredState": "israel",
+      "acquired": "Mellanox",
+      "acquiredBusiness": "Networking",
+      "price": "6,900,000,000",
+      "unit": "USD",
+      "officialInfo": "https://nvidianews.nvidia.com/news/nvidia-to-acquire-mellanox-for-6-9-billion"
     },
     {
       "date": "2018/06/04",
@@ -994,6 +1258,28 @@
       "officialInfo": "https://www.alibabanews.com/alibabaquanzishougouzhongguoxianshangwaimaipingtaieleme/"
     },
     {
+      "date": "2017/06/16",
+      "initiatorState": "usa",
+      "initiator": "Amazon",
+      "acquiredState": "usa",
+      "acquired": "Whole Foods Market",
+      "acquiredBusiness": "Retail",
+      "price": "13,700,000,000",
+      "unit": "USD",
+      "officialInfo": "https://press.aboutamazon.com/2017/6/amazon-to-acquire-whole-foods-market"
+    },
+    {
+      "date": "2017/03/13",
+      "initiatorState": "usa",
+      "initiator": "Intel",
+      "acquiredState": "israel",
+      "acquired": "Mobileye",
+      "acquiredBusiness": "Automotive",
+      "price": "15,300,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.intc.com/news-events/press-releases/detail/1105/intel-to-acquire-mobileye-combining-technology-and-talent"
+    },
+    {
       "date": "2016/07/25",
       "initiatorState": "usa",
       "initiator": "Verizon",
@@ -1003,6 +1289,17 @@
       "price": "4,830,000,000",
       "unit": "USD",
       "officialInfo": "https://www.theverge.com/2016/7/25/12269898/verizon-acquires-yahoo-4-billion-marissa-mayer"
+    },
+    {
+      "date": "2016/07/18",
+      "initiatorState": "japan",
+      "initiator": "SoftBank",
+      "acquiredState": "united-kingdom",
+      "acquired": "ARM",
+      "acquiredBusiness": "Semiconductor",
+      "price": "24,000,000,000",
+      "unit": "GBP",
+      "officialInfo": "https://group.softbank/en/news/press/20160718"
     },
     {
       "date": "2016/06/21",
@@ -1038,6 +1335,17 @@
       "officialInfo": "https://www.bbc.com/news/business-32702558"
     },
     {
+      "date": "2014/09/15",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "sweden",
+      "acquired": "Mojang",
+      "acquiredBusiness": "Gaming",
+      "price": "2,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/2014/09/15/minecraft-to-join-microsoft/"
+    },
+    {
       "date": "2014/08/15",
       "initiatorState": "usa",
       "initiator": "Amazon",
@@ -1049,6 +1357,94 @@
       "officialInfo": "https://press.aboutamazon.com/2014/8/amazon-com-to-acquire-twitch"
     },
     {
+      "date": "2014/05/28",
+      "initiatorState": "usa",
+      "initiator": "Apple",
+      "acquiredState": "usa",
+      "acquired": "Beats",
+      "acquiredBusiness": "Audio",
+      "price": "3,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/"
+    },
+    {
+      "date": "2014/03/25",
+      "initiatorState": "usa",
+      "initiator": "Facebook",
+      "acquiredState": "usa",
+      "acquired": "Oculus",
+      "acquiredBusiness": "VR",
+      "price": "2,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://about.fb.com/news/2014/03/facebook-to-acquire-oculus/"
+    },
+    {
+      "date": "2014/02/19",
+      "initiatorState": "usa",
+      "initiator": "Facebook",
+      "acquiredState": "usa",
+      "acquired": "WhatsApp",
+      "acquiredBusiness": "Communication",
+      "price": "19,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://about.fb.com/news/2014/02/facebook-to-acquire-whatsapp/"
+    },
+    {
+      "date": "2012/04/09",
+      "initiatorState": "usa",
+      "initiator": "Facebook",
+      "acquiredState": "usa",
+      "acquired": "Instagram",
+      "acquiredBusiness": "Social Media",
+      "price": "1,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://about.fb.com/news/2012/04/facebook-to-acquire-instagram/"
+    },
+    {
+      "date": "2011/08/15",
+      "initiatorState": "usa",
+      "initiator": "Google",
+      "acquiredState": "usa",
+      "acquired": "Motorola Mobility",
+      "acquiredBusiness": "Electronics",
+      "price": "12,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://googleblog.blogspot.com/2011/08/supercharging-android-google-to-acquire.html"
+    },
+    {
+      "date": "2011/05/10",
+      "initiatorState": "usa",
+      "initiator": "Microsoft",
+      "acquiredState": "luxembourg",
+      "acquired": "Skype",
+      "acquiredBusiness": "Communication",
+      "price": "8,500,000,000",
+      "unit": "USD",
+      "officialInfo": "https://news.microsoft.com/2011/05/10/microsoft-to-acquire-skype/"
+    },
+    {
+      "date": "2009/08/31",
+      "initiatorState": "usa",
+      "initiator": "The Walt Disney Company",
+      "acquiredState": "usa",
+      "acquired": "Marvel",
+      "acquiredBusiness": "Entertainment",
+      "price": "4,000,000,000",
+      "unit": "USD",
+      "officialInfo": "https://thewaltdisneycompany.com/disney-to-acquire-marvel-entertainment/"
+    },
+    {
+      "date": "2009/04/20",
+      "initiatorState": "usa",
+      "initiator": "Oracle",
+      "acquiredState": "usa",
+      "acquired": "Sun Microsystems",
+      "acquiredBusiness": "Technology",
+      "price": "7,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://www.oracle.com/corporate/pressrelease/oracle-buys-sun-042009.html"
+    },
+    {
       "date": "2006/10/09",
       "initiatorState": "usa",
       "initiator": "Google",
@@ -1058,6 +1454,17 @@
       "price": "1,650,000,000",
       "unit": "USD",
       "officialInfo": "https://www.sec.gov/Archives/edgar/data/1288776/000119312506206884/dex991.htm"
+    },
+    {
+      "date": "2006/01/24",
+      "initiatorState": "usa",
+      "initiator": "The Walt Disney Company",
+      "acquiredState": "usa",
+      "acquired": "Pixar",
+      "acquiredBusiness": "Entertainment",
+      "price": "7,400,000,000",
+      "unit": "USD",
+      "officialInfo": "https://thewaltdisneycompany.com/disney-to-acquire-pixar/"
     },
     {
       "date": "1999/01/28",
